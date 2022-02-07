@@ -13,4 +13,4 @@ Trinity college Dublin offers a post graduate diploma and an M.sc in [Molecular 
 
 Molecular Cell Biology with Bioinnovation is a 1-year course within which the course work and dissertation are completed. They have provided a [course outline](https://www.ucc.ie/en/ckr44/) and some [requirements](https://www.ucc.ie/en/ckr44/). 
 
-My main goal is to apply molecular biology and bioinformatics in conservation, as shown [here](https://github.com/Rodneyomukuti/ICIPE_Bioinformatics-Internship). Therefore, I am wondering if this course will be broad and deep enough for my career. Kindly advice
+My main goal is to apply molecular biology and bioinformatics in conservation, as I am trying to show [here](https://github.com/Rodneyomukuti/ICIPE_Bioinformatics-Internship). Therefore, I am wondering if this course will be broad and deep enough for my career. Kindly advice
